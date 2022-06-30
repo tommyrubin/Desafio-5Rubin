@@ -1,0 +1,12 @@
+.color-body{
+    background-color: aquamarine;
+}
+/* Footer */
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 10px;
+}
+
